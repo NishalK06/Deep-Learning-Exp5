@@ -51,9 +51,9 @@ STEP 6: Visualization
 ## **PROGRAM**
 
 
-**Name:** HANIEL REENA D R
+**Name:** Nishal
 
-**Register Number:** 2305001008
+**Register Number:** 2305001021
 
 
 ```python
